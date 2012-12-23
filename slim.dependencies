@@ -1,0 +1,13 @@
+[
+      {
+        "repository": "SlimRoms/device_samsung_aries-common",
+        "target_path": "device/samsung/aries-common",
+        "branch": "jb4.2"
+      },
+      {
+        "repository": "slimroms/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "branch": "jb4.2"
+      }
+]
+
